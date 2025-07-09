@@ -5,7 +5,6 @@
 <company>NCASE</company>
 <url>https://ncase.ua/</url>
 <currencies>
-<currency id="USD" rate="1" />
 <currency id="UAH" rate="1" />
 </currencies>
 <categories>
